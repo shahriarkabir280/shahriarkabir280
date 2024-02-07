@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shahriarkabir280
+- 👋 Hi, I’m Md. Shahriar Kabir
 - 👀 I’m interested in ...problem solving and doing fun projects.
 - 🌱 I’m currently learning ...java - object Oriented Programming Language
 - 💞️ I’m looking to collaborate on ... problem solving and making fun projects.
