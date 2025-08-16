@@ -7,18 +7,26 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriarkabir280&label=Profile%20views&color=0e75b6&style=flat" alt="shahriarkabir280" /> </p>
 
-- 🔭 I’m currently working on [Disaster Management Dashboar – A web-based system for filtering, visualizing, and managing disaster data](https://github.com/shahriarkabir280/DisasterManagement)
+---
 
-- [**Grocie Genie (AI Model)**](#)  
-  An AI-powered grocery assistant that helps users manage shopping lists, find recipes, and optimize daily essentials.
+### 🔭 Current Projects
+- [Disaster Management Dashboard](https://github.com/shahriarkabir280/DisasterManagement) – Web system for visualizing & managing disaster data
+- **Grocie Genie (AI Model)** – AI-powered grocery assistant for recipes, shopping lists & daily essentials
 
-- 🌱 I’m currently learning **LLMs & Generative AI**
+### 🌱 Learning
+- Large Language Models (LLMs) & Generative AI
 
-- 💬 Ask me about **Flutter, FastAPI, MongoDB, MySQL, Backend APIs & Web Development**
+### 💬 Ask Me About
+- Flutter, FastAPI, MongoDB, MySQL, Backend APIs, Web Development
 
-- 📫 How to reach me **shahriarkabir280@gmail.com**
+### 📫 Contact
+- Email: **shahriarkabir280@gmail.com**  
+- LinkedIn: [Shahriar Kabir](https://linkedin.com/in/shahriar-kabir25) <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="30">
 
-- ⚡ Fun fact **I love debugging more than writing code! 😆**
+### ⚡ Fun Fact
+I love debugging more than writing code! 😆
+
+---
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
