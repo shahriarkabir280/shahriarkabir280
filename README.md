@@ -3,7 +3,7 @@ shahriarkabir280/shahriarkabir280 is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Md. Shahriar Kabir</h1>
-<h3 align="center">CSE @ University of Dhaka | Software Developer | Problem Solver</h3>
+<h3 align="center">CSE @ University of Dhaka | Software Developer | Problem Solver | AI Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriarkabir280&label=Profile%20views&color=0e75b6&style=flat" alt="shahriarkabir280" /> </p>
 
