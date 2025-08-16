@@ -20,8 +20,8 @@ You can click the Preview link to take a look at your changes.
 - Flutter, FastAPI, MongoDB, MySQL, Backend APIs, Web Development
 
 ### 📫 Contact
-- Email: **shahriarkabir280@gmail.com**  
-- LinkedIn: [Shahriar Kabir](https://linkedin.com/in/shahriar-kabir25) <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="30">
+- Email: **shahriarkabir280@gmail.com**
+
 
 ### ⚡ Fun Fact
 I love debugging more than writing code! 😆
