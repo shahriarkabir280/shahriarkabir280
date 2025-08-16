@@ -85,17 +85,25 @@ You can click the Preview link to take a look at your changes.
 </tr>
 </table>
 
+<div style="height: 30px;"></div>
 
 
+<h2 align="left">Git Stats:</h2>
+
+<div style="display: flex; gap: 10px; flex-wrap: nowrap;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=shahriarkabir280&show_icons=true&theme=tokyonight&hide_border=true&locale=en" width="49%" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriarkabir280&theme=tokyonight&hide_border=true" width="49%" />
+
+</div>
 
 
+### 💻 Most Used Languages
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriarkabir280&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&locale=en" />
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriarkabir280&show_icons=true&locale=en&layout=compact" alt="shahriarkabir280" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahriarkabir280&show_icons=true&locale=en" alt="shahriarkabir280" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriarkabir280&" alt="shahriarkabir280" /></p>
 
 
 
