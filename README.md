@@ -41,7 +41,7 @@ I love debugging more than writing code! 😆
 
 
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Tech Stack & Tools:</h2>
 
 <table>
 <tr>
