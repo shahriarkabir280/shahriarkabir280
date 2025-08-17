@@ -28,20 +28,20 @@ I love debugging more than writing code! 😆
 
 ---
 
-<h2 align="left">Connect with me:</h2>
+# Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/shahriar-kabir25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahriar-kabir25" height="20" width="30" /></a>
 </p>
 
 
-<h2 align="left">Competitive Programming Profiles:</h2>
+# Competitive Programming Profiles: 
 
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Dopamine_01/) [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Dopamine_01) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/shahriarkabir_20) [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/shahriar42)
 
 
 
-<h2 align="left">Tech Stack & Tools:</h2>
+# Tech Stack & Tools:
 
 <table>
 <tr>
