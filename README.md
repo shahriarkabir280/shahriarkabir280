@@ -97,20 +97,16 @@ I love debugging more than writing code! 😆
 <div style="height: 30px;"></div>
 
 
-<h2 align="left">Git Stats:</h2>
 
-<div style="display: flex; gap: 10px; flex-wrap: nowrap;">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shahriarkabir280&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=shahriarkabir280&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarkabir280&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=shahriarkabir280&show_icons=true&theme=tokyonight&hide_border=true&locale=en" width="49%" />
+---
+[![](https://visitcount.itsvg.in/api?id=shahriarkabir280&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriarkabir280&theme=tokyonight&hide_border=true" width="49%" />
-
-</div>
-
-
-<h2 align="left">Most Used Languages:</h2>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriarkabir280&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&locale=en" />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
