@@ -99,8 +99,7 @@ I love debugging more than writing code! 😆
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shahriarkabir280&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=shahriarkabir280&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=shahriarkabir280&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)![](https://nirzak-streak-stats.vercel.app/?user=shahriarkabir280&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarkabir280&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
