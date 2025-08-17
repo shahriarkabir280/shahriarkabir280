@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### 🔭 Current Projects
-- [Disaster Management Dashboard](https://github.com/shahriarkabir280/DisasterManagement) – Web system for visualizing & managing disaster data
-- **Grocie Genie (AI Model)** – AI-powered grocery assistant for recipes, shopping lists & daily essentials
+- [**Grocie Genie AI Model**](https://github.com/shahriarkabir280/GrocyGenieModel) - An AI-powered model that predicts grocery finishing dates using purchase and consumption patterns.  
+Built on Google Colab and hosted on Hugging Face as part of the GrocieGenie mobile app. 
 
 ### 🌱 Learning
 - Large Language Models (LLMs) & Generative AI
