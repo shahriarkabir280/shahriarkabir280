@@ -16,9 +16,6 @@ Built on Google Colab and hosted on Hugging Face as part of the GrocieGenie mobi
 ### 🌱 Learning
 - Large Language Models (LLMs) & Generative AI
 
-### 💬 Ask Me About
-- Flutter, FastAPI, MongoDB, MySQL, Backend APIs, Web Development
-
 ### 📫 Contact
 - Email: **shahriarkabir280@gmail.com**
 
