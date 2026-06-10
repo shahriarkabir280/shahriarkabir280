@@ -129,10 +129,6 @@ Consistent problem-solver across multiple platforms. Available under the handle 
 </p>
 
 
-<p align="center">
-  <img src="./github-readme-streak-stats.svg" alt="GitHub Streak"/>
-</p>
-
 
 
 <br/>
