@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./svgviewer-output.svg" alt="Md. Shahriar Kabir — Full-Stack Developer & AI Engineer" width="100%"/>
+  <img src="./svgviewerheader.svg" alt="Md. Shahriar Kabir — Full-Stack Developer & AI Engineer" width="100%"/>
 </p>
 
 <br/>
