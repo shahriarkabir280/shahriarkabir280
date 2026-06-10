@@ -1,0 +1,192 @@
+<svg width="100%" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;family=Inter:wght@300;400;600;700&amp;display=swap');
+
+      .name-text {
+        font-family: 'Inter', sans-serif;
+        font-size: 42px;
+        font-weight: 700;
+        fill: #F0F4FF;
+        letter-spacing: -1px;
+      }
+      .role-text {
+        font-family: 'Inter', sans-serif;
+        font-size: 15px;
+        font-weight: 400;
+        fill: #8B9CC8;
+        letter-spacing: 2.5px;
+        text-transform: uppercase;
+      }
+      .mono-text {
+        font-family: 'JetBrains Mono', 'Courier New', monospace;
+        font-size: 13px;
+        fill: #4ECCA3;
+      }
+      .dim-text {
+        font-family: 'JetBrains Mono', 'Courier New', monospace;
+        font-size: 13px;
+        fill: #3A5080;
+      }
+      .tag-text {
+        font-family: 'Inter', sans-serif;
+        font-size: 11px;
+        font-weight: 600;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+      }
+      .cursor {
+        animation: blink 1.2s step-end infinite;
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+      .line-reveal {
+        animation: fadeUp 0.6s ease both;
+      }
+      @keyframes fadeUp {
+        from { opacity: 0; transform: translateY(8px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+      .l1 { animation-delay: 0.1s; }
+      .l2 { animation-delay: 0.25s; }
+      .l3 { animation-delay: 0.4s; }
+      .l4 { animation-delay: 0.55s; }
+      .l5 { animation-delay: 0.7s; }
+      .tag-reveal {
+        animation: fadeUp 0.5s ease both;
+      }
+      .t1 { animation-delay: 0.9s; }
+      .t2 { animation-delay: 1.05s; }
+      .t3 { animation-delay: 1.2s; }
+      .t4 { animation-delay: 1.35s; }
+      .divider-line {
+        animation: growX 0.8s ease both;
+        animation-delay: 0.05s;
+        transform-origin: left center;
+      }
+      @keyframes growX {
+        from { transform: scaleX(0); }
+        to   { transform: scaleX(1); }
+      }
+    </style>
+
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#060C1A"/>
+      <stop offset="100%" stop-color="#0C1628"/>
+    </linearGradient>
+
+    <linearGradient id="accentLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4ECCA3"/>
+      <stop offset="60%" stop-color="#6B8EFF"/>
+      <stop offset="100%" stop-color="#6B8EFF" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#A8C0FF"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="280" fill="url(#bgGrad)" rx="0"/>
+
+  <!-- Subtle grid texture -->
+  <line x1="0" y1="0" x2="0" y2="280" stroke="#ffffff" stroke-opacity="0.02" stroke-width="1"/>
+  <line x1="100" y1="0" x2="100" y2="280" stroke="#ffffff" stroke-opacity="0.02" stroke-width="1"/>
+  <line x1="200" y1="0" x2="200" y2="280" stroke="#ffffff" stroke-opacity="0.02" stroke-width="1"/>
+  <line x1="300" y1="0" x2="300" y2="280" stroke="#ffffff" stroke-opacity="0.02" stroke-width="1"/>
+  <line x1="400" y1="0" x2="400" y2="280" stroke="#ffffff" stroke-opacity="0.02" stroke-width="1"/>
+  <line x1="500" y1="0" x2="500" y2="280" stroke="#ffffff" stroke-opacity="0.02" stroke-width="1"/>
+  <line x1="600" y1="0" x2="600" y2="280" stroke="#ffffff" stroke-opacity="0.02" stroke-width="1"/>
+  <line x1="700" y1="0" x2="700" y2="280" stroke="#ffffff" stroke-opacity="0.02" stroke-width="1"/>
+  <line x1="800" y1="0" x2="800" y2="280" stroke="#ffffff" stroke-opacity="0.02" stroke-width="1"/>
+  <line x1="0" y1="70" x2="900" y2="70" stroke="#ffffff" stroke-opacity="0.015" stroke-width="1"/>
+  <line x1="0" y1="140" x2="900" y2="140" stroke="#ffffff" stroke-opacity="0.015" stroke-width="1"/>
+  <line x1="0" y1="210" x2="900" y2="210" stroke="#ffffff" stroke-opacity="0.015" stroke-width="1"/>
+
+  <!-- Left: Terminal block -->
+  <g class="line-reveal l1">
+    <text x="52" y="62" class="dim-text">~/shahriarkabir</text>
+    <text x="170" y="62" class="mono-text"> $</text>
+  </g>
+
+  <!-- Accent bar -->
+  <rect x="52" y="74" width="340" height="2" fill="url(#accentLine)" class="divider-line"/>
+
+  <!-- Name -->
+  <g class="line-reveal l2">
+    <text x="52" y="126">
+      <tspan class="name-text" fill="url(#nameGrad)">Md. Shahriar Kabir</tspan>
+    </text>
+  </g>
+
+  <!-- Role line -->
+  <g class="line-reveal l3">
+    <text x="54" y="154" class="role-text">Full-Stack Developer  ·  Aspiring AI &amp; ML Engineer</text>
+  </g>
+
+  <!-- Divider -->
+  <line x1="52" y1="170" x2="520" y2="170" stroke="#1E2E50" stroke-width="1"/>
+
+  <!-- Terminal snippet -->
+  <g class="line-reveal l4">
+    <text x="52" y="193" class="dim-text">Education</text>
+    <text x="130" y="193" class="mono-text">CSE, University of Dhaka</text>
+  </g>
+  <g class="line-reveal l5">
+    <text x="52" y="213" class="dim-text">focus   </text>
+    <text x="130" y="213" class="mono-text">LLMs · Generative AI · RAG Pipelines . Agentic AI </text>
+    <rect x="470" y="200" width="9" height="14" fill="#4ECCA3" rx="1" class="cursor"/>
+  </g>
+
+  <!-- Tags -->
+  <g class="tag-reveal t1">
+    <rect x="52" y="235" width="90" height="24" rx="4" fill="#0D2040" stroke="#1E3A6E" stroke-width="1"/>
+    <text x="97" y="251" text-anchor="middle" class="tag-text" fill="#6B8EFF">React</text>
+  </g>
+  <g class="tag-reveal t2">
+    <rect x="151" y="235" width="90" height="24" rx="4" fill="#0A2218" stroke="#1A4030" stroke-width="1"/>
+    <text x="196" y="251" text-anchor="middle" class="tag-text" fill="#4ECCA3">Node.js</text>
+  </g>
+  <g class="tag-reveal t3">
+    <rect x="250" y="235" width="100" height="24" rx="4" fill="#1A1030" stroke="#2E1A50" stroke-width="1"/>
+    <text x="300" y="251" text-anchor="middle" class="tag-text" fill="#A78BFA">TensorFlow</text>
+  </g>
+  <g class="tag-reveal t4">
+    <rect x="359" y="235" width="90" height="24" rx="4" fill="#201008" stroke="#3D200A" stroke-width="1"/>
+    <text x="404" y="251" text-anchor="middle" class="tag-text" fill="#FB923C">FastAPI</text>
+  </g>
+
+  <!-- Right: Decorative code block -->
+  <g opacity="0.20">
+    <text x="590" y="80" font-family="'JetBrains Mono', monospace" font-size="12" fill="#6B8EFF">class</text>
+    <text x="632" y="80" font-family="'JetBrains Mono', monospace" font-size="12" fill="#4ECCA3">Developer</text>
+    <text x="700" y="80" font-family="'JetBrains Mono', monospace" font-size="12" fill="#94A3B8">:</text>
+
+    <text x="590" y="100" font-family="'JetBrains Mono', monospace" font-size="12" fill="#94A3B8">  languages</text>
+    <text x="676" y="100" font-family="'JetBrains Mono', monospace" font-size="12" fill="#F59E0B"> =</text>
+    <text x="688" y="100" font-family="'JetBrains Mono', monospace" font-size="12" fill="#4ECCA3"> [</text>
+
+    <text x="600" y="118" font-family="'JetBrains Mono', monospace" font-size="12" fill="#A78BFA">    'Python'</text>
+    <text x="600" y="136" font-family="'JetBrains Mono', monospace" font-size="12" fill="#A78BFA">     'JavaScript'</text>
+    <text x="600" y="154" font-family="'JetBrains Mono', monospace" font-size="12" fill="#A78BFA">    'TypeScript'</text>
+    <text x="600" y="172" font-family="'JetBrains Mono', monospace" font-size="12" fill="#A78BFA">    'Java'</text>
+    <text x="600" y="190" font-family="'JetBrains Mono', monospace" font-size="12" fill="#A78BFA">    'C++'</text>
+    <text x="590" y="208" font-family="'JetBrains Mono', monospace" font-size="12" fill="#4ECCA3">  ]</text>
+
+    <text x="590" y="225" font-family="'JetBrains Mono', monospace" font-size="12" fill="#94A3B8">  passion</text>
+    <text x="648" y="225" font-family="'JetBrains Mono', monospace" font-size="12" fill="#F59E0B"> =</text>
+    <text x="660" y="225" font-family="'JetBrains Mono', monospace" font-size="12" fill="#FB7185"> 'AI'</text>
+
+    <text x="590" y="240" font-family="'JetBrains Mono', monospace" font-size="12" fill="#94A3B8">  status</text>
+    <text x="640" y="240" font-family="'JetBrains Mono', monospace" font-size="12" fill="#F59E0B"> =</text>
+    <text x="652" y="240" font-family="'JetBrains Mono', monospace" font-size="12" fill="#4ECCA3"> 'building'</text>
+  </g>
+
+  <!-- Corner decoration -->
+  <circle cx="870" cy="30" r="60" fill="#4ECCA3" fill-opacity="0.03"/>
+  <circle cx="870" cy="30" r="40" fill="#4ECCA3" fill-opacity="0.03"/>
+
+</svg>
