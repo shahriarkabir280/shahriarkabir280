@@ -91,9 +91,9 @@ Type   →  Time-series prediction · Mobile-integrated ML model
 ## Currently Learning
 
 ```
-  Large Language Models (LLMs) & Generative AI
-  Advanced Machine Learning Techniques
-  Cloud Architecture & DevOps
+  • Generative AI & Large Language Models (LLMs)
+  • Production-Grade RAG Systems
+  • Agentic AI Architecture
 ```
 
 <br/>
@@ -125,8 +125,9 @@ Consistent problem-solver across multiple platforms. Available under the handle 
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shahriarkabir280&theme=github_dark&hide_border=true&background=060C1A&ring=4ECCA3&fire=FB923C&currStreakLabel=4ECCA3&border_radius=8" alt="GitHub Streak"/>
+  <img src="https://streak-stats.vercel.app/?user=shahriarkabir280&theme=github_dark&hide_border=true&background=060C1A&ring=4ECCA3&fire=FB923C&currStreakLabel=4ECCA3&border_radius=8" alt="GitHub Streak"/>
 </p>
+
 
 <br/>
 
