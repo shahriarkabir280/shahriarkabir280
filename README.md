@@ -1,6 +1,25 @@
 <h1 align="center">
-  👋 Hi, I'm Md. Shahriar Kabir
+  <img alt="waving hand" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" /> 
+  <span style="animation: slideInLeft 1s ease-in-out;">Hi, I'm Md. Shahriar Kabir</span>
 </h1>
+
+<style>
+  @keyframes slideInLeft {
+    from {
+      opacity: 0;
+      transform: translateX(-100px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+  
+  h1 span {
+    animation: slideInLeft 1s ease-in-out;
+    display: inline-block;
+  }
+</style>
 
 <h3 align="center">CSE @ University of Dhaka | Full-Stack Developer | AI & ML Enthusiast</h3>
 
