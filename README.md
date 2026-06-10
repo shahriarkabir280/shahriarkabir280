@@ -1,133 +1,150 @@
-<h1 align="center">
-  👋 Hi, I'm <span style="display:inline-block;animation:slideInLeft 1.5s ease-in-out;">Md. Shahriar Kabir</span>
-</h1>
-
-<h3 align="center">CSE @ University of Dhaka | Full-Stack Developer | AI & ML Enthusiast</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahriarkabir280&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="./header.svg" alt="Md. Shahriar Kabir — Full-Stack Developer & AI Engineer" width="100%"/>
 </p>
 
----
-
-## 🎯 About Me
-
-I'm a passionate full-stack developer and AI enthusiast with expertise in building scalable applications and machine learning solutions. I love solving complex problems through elegant code and exploring the intersection of AI/ML with real-world applications. When I'm not coding, you'll find me debugging—because debugging is more satisfying than writing code! 😆
+<br/>
 
 ---
 
-## 🚀 Featured Projects
+## About
 
-**🤖 Grocie Genie AI Model** - [View Repository](https://github.com/shahriarkabir280/GrocyGenieModel)
-- AI-powered model that predicts grocery finishing dates using purchase and consumption patterns
-- Built with TensorFlow, Python, and Hugging Face
-- Deployed on Google Colab and integrated with the GrocieGenie mobile app
+Computer Science student at the University of Dhaka, focused on building systems that sit at the intersection of full-stack engineering and applied machine learning. I work across the entire development lifecycle — from model training and API design to user-facing interfaces. Currently deep in the world of large language models, generative AI, and cloud-native architecture.
 
----
-
-## 📚 Currently Learning
-
-- 🧠 Large Language Models (LLMs) & Generative AI
-- 🤖 Advanced Machine Learning Techniques
-- ☁️ Cloud Architecture & DevOps
+<br/>
 
 ---
 
-## 💻 Tech Stack & Tools
+## Featured Work
 
-### 🔤 Languages
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Java-ED8936?style=flat-square&logo=java&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+<br/>
 
-### 🎨 Frontend Development
-<img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+**GrocyGenie AI Model** &nbsp; [`View Repository`](https://github.com/shahriarkabir280/GrocyGenieModel)
 
-### ⚙️ Backend & Databases
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+Predictive model that forecasts grocery depletion dates by analyzing historical purchase and consumption patterns. Built with TensorFlow and deployed via Hugging Face, it powers the smart-restock engine inside the GrocyGenie mobile application.
 
-### 🤖 AI/ML & Cloud
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD700?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab" />
+```
+Stack  →  TensorFlow · Python · Hugging Face · Google Colab
+Type   →  Time-series prediction · Mobile-integrated ML model
+```
 
-### 🛠️ Tools & Platforms
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+<br/>
 
 ---
 
-## 🏆 Competitive Programming
+## Technical Stack
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dopamine_01/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Dopamine_01)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/dopamine_01)
+<br/>
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0A1628?style=flat-square&logo=python&logoColor=4ECCA3)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A1628?style=flat-square&logo=typescript&logoColor=6B8EFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A1628?style=flat-square&logo=javascript&logoColor=F59E0B)
+![Java](https://img.shields.io/badge/Java-0A1628?style=flat-square&logo=openjdk&logoColor=FB923C)
+![C++](https://img.shields.io/badge/C++-0A1628?style=flat-square&logo=cplusplus&logoColor=A78BFA)
+![Dart](https://img.shields.io/badge/Dart-0A1628?style=flat-square&logo=dart&logoColor=4ECCA3)
+
+<br/>
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-0A1628?style=flat-square&logo=react&logoColor=4ECCA3)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0A1628?style=flat-square&logo=tailwindcss&logoColor=6B8EFF)
+![Flutter](https://img.shields.io/badge/Flutter-0A1628?style=flat-square&logo=flutter&logoColor=A78BFA)
+![HTML5](https://img.shields.io/badge/HTML5-0A1628?style=flat-square&logo=html5&logoColor=FB923C)
+![CSS3](https://img.shields.io/badge/CSS3-0A1628?style=flat-square&logo=css3&logoColor=6B8EFF)
+
+<br/>
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-0A1628?style=flat-square&logo=node.js&logoColor=4ECCA3)
+![FastAPI](https://img.shields.io/badge/FastAPI-0A1628?style=flat-square&logo=fastapi&logoColor=4ECCA3)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A1628?style=flat-square&logo=postgresql&logoColor=6B8EFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-0A1628?style=flat-square&logo=mongodb&logoColor=4ECCA3)
+![MySQL](https://img.shields.io/badge/MySQL-0A1628?style=flat-square&logo=mysql&logoColor=6B8EFF)
+![Supabase](https://img.shields.io/badge/Supabase-0A1628?style=flat-square&logo=supabase&logoColor=4ECCA3)
+
+<br/>
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0A1628?style=flat-square&logo=tensorflow&logoColor=FB923C)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0A1628?style=flat-square&logo=huggingface&logoColor=F59E0B)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-0A1628?style=flat-square&logo=googlecolab&logoColor=F59E0B)
+
+<br/>
+
+**Tooling**
+
+![Git](https://img.shields.io/badge/Git-0A1628?style=flat-square&logo=git&logoColor=FB923C)
+![Linux](https://img.shields.io/badge/Linux-0A1628?style=flat-square&logo=linux&logoColor=F59E0B)
+![VS Code](https://img.shields.io/badge/VS%20Code-0A1628?style=flat-square&logo=visualstudiocode&logoColor=6B8EFF)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-0A1628?style=flat-square&logo=intellijidea&logoColor=A78BFA)
+![Postman](https://img.shields.io/badge/Postman-0A1628?style=flat-square&logo=postman&logoColor=FB923C)
+![Arduino](https://img.shields.io/badge/Arduino-0A1628?style=flat-square&logo=arduino&logoColor=4ECCA3)
+
+<br/>
 
 ---
 
-## 📊 GitHub Statistics
+## Currently Learning
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahriarkabir280&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+```
+  Large Language Models (LLMs) & Generative AI
+  Advanced Machine Learning Techniques
+  Cloud Architecture & DevOps
+```
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarkabir280&theme=github_dark&hide_border=true&layout=compact)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=shahriarkabir280&theme=github_dark&hide_border=true)
-
----
-
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahriar-kabir25)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shahriarkabir280@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shahriarkabir280)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dopamine_01/)
+<br/>
 
 ---
 
-## 💡 Fun Facts
+## Competitive Programming
 
-- 🐛 Debugging is more enjoyable than writing code!
-- 🚀 Passionate about building AI-driven solutions for real-world problems
-- 📚 Continuously learning and exploring emerging technologies
-- 💪 Competitive programmer with a problem-solving mindset
+Consistent problem-solver across multiple platforms. Available under the handle **Dopamine_01**.
+
+<br/>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-0A1628?style=flat-square&logo=leetcode&logoColor=F59E0B)](https://leetcode.com/u/Dopamine_01/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-0A1628?style=flat-square&logo=codeforces&logoColor=6B8EFF)](https://codeforces.com/profile/Dopamine_01)
+[![CodeChef](https://img.shields.io/badge/CodeChef-0A1628?style=flat-square&logo=codechef&logoColor=A78BFA)](https://www.codechef.com/users/dopamine_01)
+
+<br/>
+
+---
+
+## GitHub Stats
+
+<br/>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shahriarkabir280&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=060C1A&title_color=4ECCA3&icon_color=6B8EFF&text_color=8B9CC8&border_radius=8" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarkabir280&theme=github_dark&hide_border=true&layout=compact&bg_color=060C1A&title_color=4ECCA3&text_color=8B9CC8&border_radius=8" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shahriarkabir280&theme=github_dark&hide_border=true&background=060C1A&ring=4ECCA3&fire=FB923C&currStreakLabel=4ECCA3&border_radius=8" alt="GitHub Streak"/>
+</p>
+
+<br/>
+
+---
+
+## Connect
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A1628?style=flat-square&logo=linkedin&logoColor=6B8EFF)](https://linkedin.com/in/shahriar-kabir25)
+[![Gmail](https://img.shields.io/badge/Gmail-0A1628?style=flat-square&logo=gmail&logoColor=FB7185)](mailto:shahriarkabir280@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0A1628?style=flat-square&logo=github&logoColor=8B9CC8)](https://github.com/shahriarkabir280)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0A1628?style=flat-square&logo=leetcode&logoColor=F59E0B)](https://leetcode.com/u/Dopamine_01/)
+
+<br/>
 
 ---
 
 <p align="center">
-  <i>Made with ❤️ by Md. Shahriar Kabir</i>
+  <img src="https://komarev.com/ghpvc/?username=shahriarkabir280&label=Profile+Views&color=4ECCA3&style=flat-square" alt="Profile Views"/>
 </p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=shahriarkabir280&icon=0&color=0e75b6" alt="Profile Views" />
-</p>
-
-<style>
-@keyframes slideInLeft {
-  0% {
-    opacity: 0;
-    transform: translateX(-100px);
-  }
-  100% {
-    opacity: 1;
-    transform: translateX(0px);
-  }
-}
-</style>
