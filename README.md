@@ -1,112 +1,156 @@
-<!---
-shahriarkabir280/shahriarkabir280 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1 align="center">Hi 👋, I'm Md. Shahriar Kabir</h1>
-<h3 align="center">CSE @ University of Dhaka | Software Developer | Problem Solver | AI Enthusiast</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&height=60&lines=Hi+👋,+I'm+Md.+Shahriar+Kabir;Software+Developer+%7C+AI+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriarkabir280&label=Profile%20views&color=0e75b6&style=flat" alt="shahriarkabir280" /> </p>
-
----
-
-### 🔭 Current Projects
-- [**Grocie Genie AI Model**](https://github.com/shahriarkabir280/GrocyGenieModel) - An AI-powered model that predicts grocery finishing dates using purchase and consumption patterns.  
-Built on Google Colab and hosted on Hugging Face as part of the GrocieGenie mobile app. 
-
-### 🌱 Learning
-- Large Language Models (LLMs) & Generative AI
-
-### 📫 Contact
-- Email: **shahriarkabir280@gmail.com**
-
-
-### ⚡ Fun Fact
-I love debugging more than writing code! 😆
+<div align="center">
+  <p>
+    <strong>CSE @ University of Dhaka | Full-Stack Developer | Machine Learning Enthusiast</strong>
+  </p>
+  <img src="https://komarev.com/ghpvc/?username=shahriarkabir280&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</div>
 
 ---
 
-# Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/shahriar-kabir25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahriar-kabir25" height="20" width="30" /></a>
-</p>
+## 🎯 About Me
 
-
-# Competitive Programming Profiles: 
-
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Dopamine_01/) [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Dopamine_01) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/shahriarkabir_20) [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/shahriar42)
-
-
-
-# Tech Stack & Tools:
-
-<table>
-<tr>
-<td valign="top" width="50%" style="padding-right: 20px;">
-
-### Languages:
-<a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" style="margin:5px"/></a>
-<a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" style="margin:5px"/></a>
-<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" style="margin:5px"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" style="margin:5px"/></a>
-<a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50" style="margin:5px"/></a>
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" style="margin:5px"/></a>
-
-### Frontend:
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" style="margin:5px"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" style="margin:5px"/></a>
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" style="margin:5px"/></a>
-<a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" style="margin:5px"/></a>
-<a href="https://flutter.dev/"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="50" style="margin:5px"/></a>
-
-### Backend:
-<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" style="margin:5px"/></a>
-<a href="https://www.nginx.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="50" style="margin:5px"/></a>
-<a href="https://fastapi.tiangolo.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/FastAPI_logo.svg" width="50" style="margin:5px"/></a>
-
-</td>
-
-<td valign="top" width="50%" style="padding-left: 20px;">
-
-### Databases:
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" style="margin:5px"/></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" style="margin:5px"/></a>
-<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" style="margin:5px"/></a>
-<a href="https://supabase.com/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" width="50" style="margin:5px"/></a>
-
-### AI / ML & Cloud:
-<a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="50" style="margin:5px"/></a>
-<a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" style="margin:5px"/></a>
-
-### Tools & Platforms:
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" style="margin:5px"/></a>
-<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" style="margin:5px"/></a>
-<a href="https://developer.android.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50" style="margin:5px"/></a>
-<a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50" style="margin:5px"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" style="margin:5px"/></a>
-<a href="https://www.jetbrains.com/idea/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="50" style="margin:5px"/></a>
-<a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" style="margin:5px"/></a>
-
-</td>
-</tr>
-</table>
-
-<div style="height: 30px;"></div>
-
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=shahriarkabir280&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=shahriarkabir280&theme=github_dark&hide_border=true)  
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarkabir280&theme=github_dark&hide_border=true&layout=compact)
+I'm a passionate software developer and AI enthusiast with a strong foundation in Computer Science and Engineering. I love solving complex problems through elegant code and exploring the intersection of AI/ML with real-world applications. When I'm not coding, you'll find me debugging—because debugging is more satisfying than writing code! 😆
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shahriarkabir280&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Projects
 
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🤖 Grocie Genie AI Model</h3>
+        <p><strong>AI-Powered Grocery Prediction</strong></p>
+        <p>An intelligent ML model that predicts grocery finishing dates using purchase and consumption patterns.</p>
+        <p>
+          <strong>Tech Stack:</strong> TensorFlow • Python • Hugging Face<br>
+          <a href="https://github.com/shahriarkabir280/GrocyGenieModel">View Repository →</a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
+---
 
+## 📚 Current Learning
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Large%20Language%20Models-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Generative%20AI-4169E1?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/Advanced%20ML-9B59B6?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Advanced ML" />
+</div>
 
+---
+
+## 💻 Tech Stack & Tools
+
+<h3 align="center">Languages</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+</div>
+
+<h3 align="center">Frontend Development</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+</div>
+
+<h3 align="center">Backend & Databases</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</div>
+
+<h3 align="center">AI/ML & Cloud</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD700?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
+</div>
+
+<h3 align="center">Tools & Platforms</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+</div>
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+  <a href="https://leetcode.com/u/Dopamine_01/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/Dopamine_01"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.codechef.com/users/dopamine_01"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=shahriarkabir280&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarkabir280&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=shahriarkabir280&theme=github_dark&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/shahriar-kabir25"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shahriarkabir280@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/shahriarkabir280"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/Dopamine_01/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+</div>
+
+---
+
+## 💡 Fun Facts
+
+- 🐛 I believe debugging is more enjoyable than writing code!
+- 🚀 Passionate about building AI-driven solutions that solve real-world problems
+- 📚 Continuously learning and exploring emerging technologies
+- 💪 Competitive programmer with a problem-solving mindset
+
+---
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=shahriarkabir280&icon=0&color=0e75b6" alt="Profile Views" />
+  <p><i>Made with ❤️ by Md. Shahriar Kabir</i></p>
+</div>
