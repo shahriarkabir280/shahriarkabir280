@@ -8,7 +8,7 @@
 
 ## About
 
-Computer Science student at the University of Dhaka, focused on building systems that sit at the intersection of full-stack engineering and applied machine learning. I work across the entire development lifecycle — from model training and API design to user-facing interfaces. Currently deep in the world of large language models, generative AI, and cloud-native architecture.
+Computer Science student at the University of Dhaka, focused on building systems that sit at the intersection of full-stack engineering and applied machine learning. I work across the entire development lifecycle — from model training and API design to user-facing interfaces. Currently deep in the world of large language models, generative AI, and Agentic AI.
 
 <br/>
 
