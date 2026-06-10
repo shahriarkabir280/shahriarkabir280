@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img alt="waving hand" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" /> 
-  Hi, I'm Md. Shahriar Kabir
+  👋 Hi, I'm <span style="display:inline-block;animation:slideInLeft 1.5s ease-in-out;">Md. Shahriar Kabir</span>
 </h1>
 
 <h3 align="center">CSE @ University of Dhaka | Full-Stack Developer | AI & ML Enthusiast</h3>
@@ -119,3 +118,16 @@ I'm a passionate full-stack developer and AI enthusiast with expertise in buildi
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=shahriarkabir280&icon=0&color=0e75b6" alt="Profile Views" />
 </p>
+
+<style>
+@keyframes slideInLeft {
+  0% {
+    opacity: 0;
+    transform: translateX(-100px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0px);
+  }
+}
+</style>
