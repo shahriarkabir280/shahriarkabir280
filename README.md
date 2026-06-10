@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&height=60&lines=Hi+👋,+I'm+Md.+Shahriar+Kabir;Software+Developer+%7C+AI+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=0e75b6&center=true&vCenter=true&width=650&height=70&lines=Hi+👋,+I'm+Md.+Shahriar+Kabir;Full-Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -22,13 +22,13 @@ I'm a passionate software developer and AI enthusiast with a strong foundation i
 <div align="center">
   <table>
     <tr>
-      <td width="50%" align="center">
+      <td width="100%" align="center">
         <h3>🤖 Grocie Genie AI Model</h3>
-        <p><strong>AI-Powered Grocery Prediction</strong></p>
-        <p>An intelligent ML model that predicts grocery finishing dates using purchase and consumption patterns.</p>
+        <p><strong>AI-Powered Grocery Prediction System</strong></p>
+        <p>An intelligent machine learning model that predicts grocery finishing dates using purchase and consumption patterns.</p>
         <p>
-          <strong>Tech Stack:</strong> TensorFlow • Python • Hugging Face<br>
-          <a href="https://github.com/shahriarkabir280/GrocyGenieModel">View Repository →</a>
+          <strong>Built with:</strong> TensorFlow • Python • Hugging Face • Google Colab<br>
+          <a href="https://github.com/shahriarkabir280/GrocyGenieModel"><strong>→ View Repository</strong></a>
         </p>
       </td>
     </tr>
@@ -37,21 +37,21 @@ I'm a passionate software developer and AI enthusiast with a strong foundation i
 
 ---
 
-## 📚 Current Learning
+## 📚 Currently Learning
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Large%20Language%20Models-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
-  <img src="https://img.shields.io/badge/Generative%20AI-4169E1?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/Advanced%20ML-9B59B6?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Advanced ML" />
+  <img src="https://img.shields.io/badge/Large%20Language%20Models-FF6B6B?style=for-the-badge&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Generative%20AI-4169E1?style=for-the-badge&logoColor=white" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/Advanced%20ML-9B59B6?style=for-the-badge&logoColor=white" alt="Advanced ML" />
 </div>
 
 ---
 
 ## 💻 Tech Stack & Tools
 
-<h3 align="center">Languages</h3>
+### 🔤 Languages
 <div align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -60,7 +60,7 @@ I'm a passionate software developer and AI enthusiast with a strong foundation i
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </div>
 
-<h3 align="center">Frontend Development</h3>
+### 🎨 Frontend Development
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -69,9 +69,9 @@ I'm a passionate software developer and AI enthusiast with a strong foundation i
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </div>
 
-<h3 align="center">Backend & Databases</h3>
+### ⚙️ Backend & Databases
 <div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -79,14 +79,14 @@ I'm a passionate software developer and AI enthusiast with a strong foundation i
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </div>
 
-<h3 align="center">AI/ML & Cloud</h3>
+### 🤖 AI/ML & Cloud
 <div align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD700?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
 </div>
 
-<h3 align="center">Tools & Platforms</h3>
+### 🛠️ Tools & Platforms
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -94,6 +94,7 @@ I'm a passionate software developer and AI enthusiast with a strong foundation i
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </div>
 
 ---
@@ -101,9 +102,9 @@ I'm a passionate software developer and AI enthusiast with a strong foundation i
 ## 🏆 Competitive Programming
 
 <div align="center">
-  <a href="https://leetcode.com/u/Dopamine_01/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://codeforces.com/profile/Dopamine_01"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-  <a href="https://www.codechef.com/users/dopamine_01"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://leetcode.com/u/Dopamine_01/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/Dopamine_01" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.codechef.com/users/dopamine_01" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 </div>
 
 ---
@@ -111,21 +112,13 @@ I'm a passionate software developer and AI enthusiast with a strong foundation i
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=shahriarkabir280&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarkabir280&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=shahriarkabir280&theme=github_dark&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahriarkabir280&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarkabir280&theme=github_dark&hide_border=true&layout=compact)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=shahriarkabir280&theme=github_dark&hide_border=true)
+
 </div>
 
 ---
@@ -133,10 +126,10 @@ I'm a passionate software developer and AI enthusiast with a strong foundation i
 ## 🔗 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/shahriar-kabir25"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/shahriar-kabir25" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:shahriarkabir280@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/shahriarkabir280"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://leetcode.com/u/Dopamine_01/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://github.com/shahriarkabir280" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/Dopamine_01/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </div>
 
 ---
@@ -151,6 +144,6 @@ I'm a passionate software developer and AI enthusiast with a strong foundation i
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=shahriarkabir280&icon=0&color=0e75b6" alt="Profile Views" />
   <p><i>Made with ❤️ by Md. Shahriar Kabir</i></p>
+  <img src="https://visitcount.itsvg.in/api?id=shahriarkabir280&icon=0&color=0e75b6" alt="Profile Views" />
 </div>
