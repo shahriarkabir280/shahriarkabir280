@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/159224133/400000000-00000000-0000-0000-0000-000000000000?s=28" width="30" alt="wave" /> 
-  Hi, I'm Md. Shahriar Kabir
+  👋 Hi, I'm Md. Shahriar Kabir
 </h1>
 
 <h3 align="center">CSE @ University of Dhaka | Full-Stack Developer | AI & ML Enthusiast</h3>
@@ -36,7 +35,7 @@ I'm a passionate full-stack developer and AI enthusiast with expertise in buildi
 
 ## 💻 Tech Stack & Tools
 
-### Languages
+### 🔤 Languages
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/Java-ED8936?style=flat-square&logo=java&logoColor=white" alt="Java" />
@@ -45,14 +44,14 @@ I'm a passionate full-stack developer and AI enthusiast with expertise in buildi
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
 
-### Frontend Development
+### 🎨 Frontend Development
 <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
 
-### Backend & Databases
+### ⚙️ Backend & Databases
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
 <img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -60,12 +59,12 @@ I'm a passionate full-stack developer and AI enthusiast with expertise in buildi
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
 
-### AI/ML & Cloud
+### 🤖 AI/ML & Cloud
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD700?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab" />
 
-### Tools & Platforms
+### 🛠️ Tools & Platforms
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
