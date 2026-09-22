@@ -118,19 +118,8 @@ Consistent problem-solver across multiple platforms. Available under the handle 
 
 <br/>
 
-## GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=shahriarkabir280&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark"
-    alt="Shahriar's GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarkabir280&layout=compact&hide_border=true&theme=github_dark"
-    alt="Top Languages"
-  />
-</p>
+![GitHub stats for shahriarkabir280](https://github-readme-stats.vercel.app/api?username=shahriarkabir280&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark)
+![Top languages used by shahriarkabir280](https://github-readme-stats.vercel.app/api/top-langs?username=shahriarkabir280&layout=compact&hide_border=true&theme=github_dark)
 
 <p align="center">
   <img
