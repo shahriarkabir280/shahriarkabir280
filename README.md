@@ -118,14 +118,25 @@ Consistent problem-solver across multiple platforms. Available under the handle 
 
 <br/>
 
+## GitHub Stats
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shahriarkabir280&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=060C1A&title_color=4ECCA3&icon_color=6B8EFF&text_color=8B9CC8&border_radius=8" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarkabir280&theme=github_dark&hide_border=true&layout=compact&bg_color=060C1A&title_color=4ECCA3&text_color=8B9CC8&border_radius=8" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=shahriarkabir280&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark"
+    alt="Shahriar's GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarkabir280&layout=compact&hide_border=true&theme=github_dark"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app/?user=shahriarkabir280&theme=github_dark&hide_border=true&background=060C1A&ring=4ECCA3&fire=FB923C&currStreakLabel=4ECCA3&border_radius=8" alt="GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=shahriarkabir280&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 
