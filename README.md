@@ -114,30 +114,18 @@ Consistent problem-solver across multiple platforms. Available under the handle 
 
 ---
 
-## GitHub Stats
-
 <br/>
 
 ## GitHub Stats
-
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=shahriarkabir280&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark"
-    alt="Shahriar's GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarkabir280&layout=compact&hide_border=true&theme=github_dark"
-    alt="Top Languages"
-  />
+  <img src="https://github-stats-extended.vercel.app/api?username=shahriarkabir280&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" alt="Shahriar's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shahriarkabir280&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=shahriarkabir280&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com/?user=shahriarkabir280&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 
 
